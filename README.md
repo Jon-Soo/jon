@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Jon.Soo web.
 
-You can use the [editor on GitHub](https://github.com/Jon-Soo/jon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is Jon's personal github, which mainly stores Jon's personal projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Facecto
 
-### Markdown
+https://github.com/facecto mainly stores open source projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Jon.Soo
 
-# Header 1
-## Header 2
-### Header 3
+Full-stack developer and continuous learner.
 
-- Bulleted
-- List
+Computer science graduate, as a Java application developer, also writing C/C++, C#, Python crawler, VUE development. As well as PS for images, video editing, etc.
 
-1. Numbered
-2. List
+Have led teams of up to 50 people. Have done daily 10 million orders project. Worked on the whole process of product design, architecture design, framework building, coding development, container compilation, release, etc.
 
-**Bold** and _Italic_ and `Code` text
+Have multiple 0 to 1 team and project experience. Involved in e-commerce, ERP, government, aggregated payment, etc. Has multiple open source projects. The open source project address is https://github.com/facecto.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 关于我
 
-### Jekyll Themes
+全栈开发者，持续学习者。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jon-Soo/jon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+计算机专业毕业，作为Java应用开发者，也编写C/C++，C#，Python爬虫，VUE开发。做过基本的图片PS，视频编辑等。
 
-### Support or Contact
+带过最大50人团队。做过日千万笔订单项目。工作中处理产品设计、架构设计、框架搭建、编码开发、容器编译、发布等全流程。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+有多个0到1的组队和项目经验。
+
+这些项目涉及电商、ERP、政务、聚合支付等。有多个开源项目。开源项目地址是 https://github.com/facecto.
